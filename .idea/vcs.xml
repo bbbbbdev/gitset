@@ -2,9 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/jupyterlab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/conda" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/pkg/gimme" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/submodule/gitsome" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/submodule/xonsh" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodule/hub" vcs="Git" />
   </component>
 </project>

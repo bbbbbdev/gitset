@@ -1,6 +1,9 @@
 [submodule "submodule/gitsome"]
 	path = submodule/gitsome
 	url = https://github.com/bbbbbroot/gitsome.git
-[submodule "submodule/xonsh"]
-	path = submodule/xonsh
-	url = https://github.com/bbbbbroot/xonsh.git
+[submodule "submodule/hub"]
+	path = submodule/hub
+	url = https://github.com/bbbbbroot/hub.git
+[submodule "conda"]
+	path = conda
+	url = https://github.com/conda/conda.git
