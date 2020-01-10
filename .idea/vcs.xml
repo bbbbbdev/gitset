@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/jupyterlab" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pkg/gimme" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodule/gitsome" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/submodule/xonsh" vcs="Git" />
+  </component>
+</project>

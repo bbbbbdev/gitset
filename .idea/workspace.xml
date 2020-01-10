@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49406032-497c-49be-bca4-b462330da321" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitmodules" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gitset.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.testdata/binary-darwin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.testdata/binary-linux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.testdata/sample-binary-darwin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.testdata/sample-binary-linux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.testdata/source-darwin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.testdata/source-linux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.testdata/stubheader-all" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.testdata/stubheader-sample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/CONTRIBUTORS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/fetch-object-urls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/gimme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/gimme.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pkg/gimme/runtests" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/submodule/gitsome" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/submodule/gitsome" />
+  </component>
+  <component name="ProjectId" id="1W6UINEckdktBdR4hCfbkFNFQzB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pkg" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49406032-497c-49be-bca4-b462330da321" name="Default Changelist" comment="" />
+      <created>1578469457881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578469457881</updated>
+      <workItem from="1578469466980" duration="242000" />
+      <workItem from="1578476689768" duration="176000" />
+      <workItem from="1578481146458" duration="368000" />
+      <workItem from="1578555003423" duration="1443000" />
+      <workItem from="1578557719747" duration="294000" />
+      <workItem from="1578560135661" duration="3116000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/gimme" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="212" key="NewModule_or_Project.wizard" timestamp="1578620997442">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="452" y="212" key="NewModule_or_Project.wizard/0.23.1680.976@0.23.1680.976" timestamp="1578620997442" />
+    <state x="341" y="149" key="SettingsEditor" timestamp="1578560530410">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="341" y="149" key="SettingsEditor/0.23.1680.976@0.23.1680.976" timestamp="1578560530410" />
+    <state x="440" y="251" key="Vcs.Push.Dialog.v2" timestamp="1578555218056">
+      <screen x="0" y="23" width="1680" height="976" />
+    </state>
+    <state x="440" y="251" key="Vcs.Push.Dialog.v2/0.23.1680.976@0.23.1680.976" timestamp="1578555218056" />
+    <state x="517" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1578469550941">
+      <screen x="0" y="23" width="1680" height="975" />
+    </state>
+    <state x="517" y="343" key="com.intellij.ide.util.TipDialog/0.23.1680.975@0.23.1680.975" timestamp="1578469550941" />
+    <state x="217" y="133" key="new project wizard" timestamp="1578618725797">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="217" y="133" key="new project wizard/0.23.1680.977@0.23.1680.977" timestamp="1578618725797" />
+  </component>
+</project>
